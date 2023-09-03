@@ -10,4 +10,5 @@ let answers = await inquirer.prompt([
 ])
 if (computerGuess === answers.userGuess){
     console.log ("Congratulations! You Won")
-} else console.log (`The number was ${computerGuess}, Sorry you lost the game`)
+} 
+else console.log (`The number was ${computerGuess}, Sorry you lost the game`)
