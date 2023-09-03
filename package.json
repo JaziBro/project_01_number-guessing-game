@@ -6,8 +6,8 @@
   "dependencies": {
     "inquirer": "^9.2.10"
   },
-  "name": "project_01_number-guessing-game",
-  "version": "1.0.0",
+  "name": "@jazil_hahsmi/project_01_number-guessing-game",
+  "version": "1.1.0",
   "main": "main.js",
   "type": "module",
   "bin": "main.js",
